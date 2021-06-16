@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 a=20
 b=30
+=======
+i1=20
+i2=30
+>>>>>>> branch 'main' of https://github.com/sumitgithub007/test1repo.git
 
+<<<<<<< HEAD
 s = x+y
+=======
+mul = x+y
+>>>>>>> branch 'main' of https://github.com/sumitgithub007/test1repo.git
